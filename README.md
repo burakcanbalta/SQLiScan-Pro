@@ -173,19 +173,3 @@ Contents include:
 - Remediation tips
 
 ---
-
-## 🤝 Contributing
-
-PRs welcome!
-
-```bash
-git checkout -b feature/your-feature
-# Make changes
-git commit -m "Add feature"
-git push origin feature/your-feature
-# Then open a Pull Request
-```
-
----
-
-## 🧙‍♂️ Stay Secure & Scan Smart! 🧠
