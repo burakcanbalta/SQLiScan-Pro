@@ -13,9 +13,6 @@ Leveraging asynchronous programming, sophisticated payload management, and compr
   - Blind SQLi (Content-Based, Length-Based)
   - Time-Based SQLi
   - UNION-Based SQLi
-  - Basic NoSQL Injection (MongoDB, etc.)
-
-- **🔍 DBMS Fingerprinting:** Detects backend DBMS like MySQL, MSSQL, Oracle, PostgreSQL, SQLite, MongoDB.
 
 - **💥 Automated Exploitation (UNION-Based):**
   - DBMS version
@@ -68,16 +65,6 @@ sudo apt-get install wkhtmltopdf
 ```
 
 - **(Optional) Tor Proxy:** Tor should be running on `127.0.0.1:9050`
-
----
-
-## 🧰 Installation
-
-```bash
-git clone https://github.com/your-username/SQLiScan-Pro.git
-cd SQLiScan-Pro
-pip install -r requirements.txt
-```
 
 ---
 
