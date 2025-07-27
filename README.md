@@ -15,7 +15,6 @@ Leveraging asynchronous programming, sophisticated payload management, and compr
   - UNION-Based SQLi
 
 - **💥 Automated Exploitation (UNION-Based):**
-  - DBMS version
   - Current user/database
   - Table & column names
   - Example user data
